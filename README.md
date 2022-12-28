@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @b5156
-- 👀 I’m interested in forntend
+- 👀 I’m interested in frontend of web.
 - 🌱 I’m currently learning english.
 
 <!---
